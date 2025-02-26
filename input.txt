@@ -1,15 +1,23 @@
-5
-Barishal
+8
 Dhaka
 Chittagong
-Rajsahi
-Chapai
-6
-Rajsahi Chittagong 100
-Dhaka Rajsahi 150
-Barishal Dhaka 350
-Dhaka Chittagong 560
-Barishal Chapai 58
-Dhaka Rajsahi 456
-Rajsahi
-Chapai
+Sylhet
+Rajshahi
+Khulna
+Barisal
+Comilla
+Narayanganj
+12
+Dhaka Chittagong 200
+Dhaka Sylhet 150
+Dhaka Rajshahi 250
+Chittagong Sylhet 80
+Chittagong Rajshahi 300
+Sylhet Rajshahi 250
+Rajshahi Khulna 100
+Khulna Dhaka 180
+Barisal Khulna 120
+Comilla Dhaka 160
+Comilla Narayanganj 140
+Narayanganj Barisal 90
+Chittagong Comilla
